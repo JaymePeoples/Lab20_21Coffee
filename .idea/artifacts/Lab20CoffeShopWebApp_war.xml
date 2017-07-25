@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lab20CoffeShopWebApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Lab20CoffeShopWebApp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Lab20CoffeShopWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
